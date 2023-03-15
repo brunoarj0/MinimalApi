@@ -1,0 +1,17 @@
+C:\Users\bruno\source\repos\Minimal.Api\Minimal.Infrastructure\bin\Debug\net6.0\Minimal.Infrastructure.deps.json
+C:\Users\bruno\source\repos\Minimal.Api\Minimal.Infrastructure\bin\Debug\net6.0\Minimal.Infrastructure.dll
+C:\Users\bruno\source\repos\Minimal.Api\Minimal.Infrastructure\bin\Debug\net6.0\Minimal.Infrastructure.pdb
+C:\Users\bruno\source\repos\Minimal.Api\Minimal.Infrastructure\bin\Debug\net6.0\Minimal.Application.dll
+C:\Users\bruno\source\repos\Minimal.Api\Minimal.Infrastructure\bin\Debug\net6.0\Minimal.Domain.dll
+C:\Users\bruno\source\repos\Minimal.Api\Minimal.Infrastructure\bin\Debug\net6.0\Minimal.Application.pdb
+C:\Users\bruno\source\repos\Minimal.Api\Minimal.Infrastructure\bin\Debug\net6.0\Minimal.Domain.pdb
+C:\Users\bruno\source\repos\Minimal.Api\Minimal.Infrastructure\obj\Debug\net6.0\Minimal.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\bruno\source\repos\Minimal.Api\Minimal.Infrastructure\obj\Debug\net6.0\Minimal.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\source\repos\Minimal.Api\Minimal.Infrastructure\obj\Debug\net6.0\Minimal.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\bruno\source\repos\Minimal.Api\Minimal.Infrastructure\obj\Debug\net6.0\Minimal.Infrastructure.AssemblyInfo.cs
+C:\Users\bruno\source\repos\Minimal.Api\Minimal.Infrastructure\obj\Debug\net6.0\Minimal.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\Minimal.Api\Minimal.Infrastructure\obj\Debug\net6.0\Minimal.Infrastructure.csproj.CopyComplete
+C:\Users\bruno\source\repos\Minimal.Api\Minimal.Infrastructure\obj\Debug\net6.0\Minimal.Infrastructure.dll
+C:\Users\bruno\source\repos\Minimal.Api\Minimal.Infrastructure\obj\Debug\net6.0\refint\Minimal.Infrastructure.dll
+C:\Users\bruno\source\repos\Minimal.Api\Minimal.Infrastructure\obj\Debug\net6.0\Minimal.Infrastructure.pdb
+C:\Users\bruno\source\repos\Minimal.Api\Minimal.Infrastructure\obj\Debug\net6.0\ref\Minimal.Infrastructure.dll
